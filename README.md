@@ -22,6 +22,10 @@
   3. [ ] google
 
 ### Project details
-  1. Project name: 
-  2. Project summary:
-  3. Project coordinator: 
+  1. Project name: Creative Kyra
+  2. Project summary: Creative Kyra has such a creative mind that no one else has. Kyra's mind is imaginative in every colorful way. If you vist that site then you might just be creative too.
+    1. main landing page:
+      1. My Passion Is:
+      2. My Inspiration Is:
+      3. How I Can Inspire The World:
+  3. Project coordinator: Sylvester Mobley
